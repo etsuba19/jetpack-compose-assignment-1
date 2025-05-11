@@ -44,5 +44,47 @@ val CoursesData = listOf(
         3,
         "Learn to build interactive and responsive web applications using React.js. Topics include component-based architecture, state management with hooks, and front-end routing.",
         "Intro to Web Programming"
+    ),
+    Course(
+        "Web Development with React",
+        "WEB101",
+        3,
+        "Learn to build interactive and responsive web applications using React.js. Topics include component-based architecture, state management with hooks, and front-end routing.",
+        "Intro to Web Programming"
+    ),
+    Course(
+        "Web Development with React",
+        "WEB101",
+        3,
+        "Learn to build interactive and responsive web applications using React.js. Topics include component-based architecture, state management with hooks, and front-end routing.",
+        "Intro to Web Programming"
+    ),
+    Course(
+        "Web Development with React",
+        "WEB101",
+        3,
+        "Learn to build interactive and responsive web applications using React.js. Topics include component-based architecture, state management with hooks, and front-end routing.",
+        "Intro to Web Programming"
+    ),
+    Course(
+        "Web Development with React",
+        "WEB101",
+        3,
+        "Learn to build interactive and responsive web applications using React.js. Topics include component-based architecture, state management with hooks, and front-end routing.",
+        "Intro to Web Programming"
+    ),
+    Course(
+        "Web Development with React",
+        "WEB101",
+        3,
+        "Learn to build interactive and responsive web applications using React.js. Topics include component-based architecture, state management with hooks, and front-end routing.",
+        "Intro to Web Programming"
+    ),
+    Course(
+        "Web Development with React",
+        "WEB101",
+        3,
+        "Learn to build interactive and responsive web applications using React.js. Topics include component-based architecture, state management with hooks, and front-end routing.",
+        "Intro to Web Programming"
     )
 )

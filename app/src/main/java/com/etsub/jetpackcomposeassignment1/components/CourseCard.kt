@@ -24,7 +24,7 @@ fun CourseCard(
         ),
         modifier = Modifier
             .fillMaxWidth()
-            .padding(8.dp)
+            .padding(4.dp)
             .clickable { onExpandToggle() },
         elevation = CardDefaults.cardElevation()
     ) {
