@@ -1,7 +1,5 @@
 package com.etsub.jetpackcomposeassignment1.model
 
-
-
 data class Course(
     val title: String,
     val code: String,
